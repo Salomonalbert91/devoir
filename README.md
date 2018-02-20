@@ -1,1 +1,1 @@
-structure de base premier display de la page
+structure parent d'élèves display page
