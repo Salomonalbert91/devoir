@@ -1,1 +1,0 @@
-la structure visible par les parents d'élèves
