@@ -1,5 +1,5 @@
 création des menus
-parents 
-éleves
-professeurs
-et admin
+parents "menuPE"
+éleves"menuEL"
+professeurs"menuPR"
+et admin"menuAD"
