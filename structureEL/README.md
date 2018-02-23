@@ -1,0 +1,1 @@
+la structure visible par les élèves
