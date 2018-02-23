@@ -1,1 +1,0 @@
-la structure visible par les profs
